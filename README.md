@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Prithvish Raj Shukla!  
-![Header](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
 
 🎓 **B.Tech Student** | 📍 *Greater Noida, India*  
 Aspiring software developer with a passion for learning and building.  
@@ -44,9 +43,3 @@ I'm working on exciting projects to showcase my skills. Stay tuned!
 ## 🎉 **Visitors Count**  
 ![Visitor Count](https://komarev.com/ghpvc/?username=prithvishshukla&color=blue&style=for-the-badge)  
 
----
-
-## ✨ **Fun Stickers**  
-![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)  
-![Laptop](https://media.giphy.com/media/3o7qE2VAxuXWeyvJIY/giphy.gif)  
-![Coffee](https://media.giphy.com/media/1kJRE3jRPcx3Lk1MNv/giphy.gif)  
