@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prithvishshukla&label=Profile%20views&color=0e75b6&style=flat" alt="prithvishshukla" /> </p>
 
-- 🌱 I’m currently learning **C,HTML,CSS,JS,JAVA**
+- 🌱 I’m currently learning **JS,JAVA**
 
-- 📫 How to reach me **prithvishxshukla@gmail.com**
+- 📫 How to reach me : [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prithvishxshukla@gmail.com)
 
-- ⚡ Fun fact **My journey in technology is fueled by curiosity and a passion for learning. I am excited to turn my aspirations into impactful projects in the future!**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +23,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithvishshukla&" alt="prithvishshukla" /></p>
+![Curious](https://img.shields.io/badge/-Curious-blue?style=flat-square&logo=thinking)  
+![Learning](https://img.shields.io/badge/-Learning-orange?style=flat-square&logo=bookstack)  
+![Impactful Projects](https://img.shields.io/badge/-Impactful_Projects-green?style=flat-square&logo=project)  
+
+⚡ **Fun Fact**  
+🌟 My journey in technology is fueled by **curiosity** 🤔 and a **passion for learning** 📘.  
+🚀 I am excited to turn my aspirations into impactful projects in the future! 💻✨
