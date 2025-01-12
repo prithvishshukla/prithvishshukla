@@ -2,6 +2,8 @@
   Hi 👋, I'm <span style="color: #0e75b6;">Prithvish Raj Shukla</span>
 </h1>
 
+## Hi I'm Prithvish<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi:)">
+
 <h3 align="center">I am an aspiring software developer with a passion for Artificial Intelligence (AI), Machine Learning (ML), DevOps, and Web Development. While I haven't worked on projects in AI, ML, or DevOps yet, I am excited to dive into these transformative fields and build innovative solutions in the near future.</h3>
 
 
