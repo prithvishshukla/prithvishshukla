@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  - 🌱 I’m currently learning JS,JAVA
+  - 🌱 I’m currently learning python,c++
 </p>
 
 
