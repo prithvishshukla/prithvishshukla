@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  - 📫 How to reach me : prithvishxshukla@gmail.com
+  - 📫 How to reach me : prithvishshukla@outlook.com
 </p>
 
 <p align="center">
@@ -37,6 +37,16 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prithvishshukla&show_icons=true&locale=en" alt="prithvishshukla" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithvishshukla" alt="prithvishshukla" /></a> </p>
+
+
+<p align="center">
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prithvishshukla&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=prithvishshukla&icon=1&color=5)](https://visitcount.itsvg.in)
+
+</p>
+
 <p align="center">
   ⚡ Fun Fact 
 🌟 My journey in technology is fueled by curiosity 🤔 and a passion for learning 📘.  
