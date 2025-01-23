@@ -43,9 +43,6 @@
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prithvishshukla&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=prithvishshukla&icon=1&color=5)](https://visitcount.itsvg.in)
-
-</p>
 
 <p align="center">
   ⚡ Fun Fact 
