@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=prithvishshukla.prithvishshukla" />
 
 <h1 align="center">
   <img
@@ -82,4 +81,11 @@ The commit message? "first" — Just keeping it simple!**
 <hr />
 <p align="center">
   <img src="https://media.giphy.com/media/3og0IFip0zn2loy5l6/giphy.gif" alt="Thanks!">
+</p>
+
+<hr />
+<h4 align="center">Visitor's count 👀</h4>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{prithvishshukla}/count.svg" alt="prithvishshukla :: Visitor's Count" />
 </p>
