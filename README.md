@@ -79,6 +79,7 @@
 
 ⚡ Fun fact : **The first commit ever made on GitHub was by Chris Wanstrath, one of its co-founders, on October 19, 2007.
 The commit message? "first" — Just keeping it simple!**
+<hr />
 <p align="center">
   <img src="https://media.giphy.com/media/3og0IFip0zn2loy5l6/giphy.gif" alt="Thanks!">
 </p>
