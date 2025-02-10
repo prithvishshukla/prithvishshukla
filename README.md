@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prithvish+Raj+Shukla!+🫡;" />
@@ -18,8 +17,10 @@
   <br />
 </div>
 <hr />
-<div <h3 align="center">Connect with me:</h3>
+<div <h3 align="center"><b>Connect with me:</b></h3>
+
   <br />
+
   <p align="center">
     <a href="https://twitter.com/prithvishshukla" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
