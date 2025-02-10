@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prithvish+Raj+Shukla!+🫡;" />
 </h1>
 
-<h3 align="center">An aspiring software developer from India 🇮🇳</h3>
+<h3 align="center">An aspiring software developer from India</h3>
 
 <br/>
 
@@ -16,15 +16,9 @@
 
 💬 Ask me about **Python, Web Development, AI... or anything [here](https://github.com/prithvishshukla/prithvishshukla/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**  
-
  </div>
  
 <div align="center"> 
-<a href="mailto:prithvishshukla@outlook.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=mail.ru&logoColor=white" />
-</a>
-
   <a href="https://linkedin.com/in/prithvishshukla" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -41,6 +35,7 @@
 <br/>
 <hr/>
 
+
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <div align="center">
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=prithvishshukla&theme=react&border_radius=10" alt="GitHub Streak Stats"/>
@@ -50,3 +45,5 @@
 </div>
 
 <hr/>
+
+⚡ Fun fact : **The first commit ever made on GitHub was by Chris Wanstrath, one of its co-founders, on October 19, 2007. The commit message? "first" — Just keeping it simple!**  
