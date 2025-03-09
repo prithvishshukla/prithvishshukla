@@ -87,3 +87,7 @@ The commit message? "first" — Just keeping it simple!**
 <p align="center">
   <img src="https://profile-counter.glitch.me/{prithvishshukla}/count.svg" alt="prithvishshukla :: Visitor's Count" />
 </p>
+
+href="mailto:shreyagarwal406@gmail.com">
+    <img align="left" alt="GMail" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+  </a>  
