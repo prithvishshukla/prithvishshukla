@@ -46,7 +46,10 @@
 <br />
 
 <p align="center">
-  - 📫 How to reach me : prithvishshukla@outlook.com
+  - 📫 How to reach me : prithvishshukla@outlook.com  <a href="mailto:prithvishshukla@outlook.com">
+    <img alt="GMail" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+  </a>  
+ 
 </p>
 
 <hr />
@@ -88,3 +91,4 @@ The commit message? "first" — Just keeping it simple!**
   <img src="https://profile-counter.glitch.me/{prithvishshukla}/count.svg" alt="prithvishshukla :: Visitor's Count" />
 </p>
 
+ 
