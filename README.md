@@ -85,4 +85,3 @@ The commit message? "first" — Just keeping it simple!**
 </p>
 
 <hr />
-<h4 align="center">Visitor's count 👀</h4>
