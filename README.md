@@ -86,9 +86,3 @@ The commit message? "first" — Just keeping it simple!**
 
 <hr />
 <h4 align="center">Visitor's count 👀</h4>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{prithvishshukla}/count.svg" alt="prithvishshukla :: Visitor's Count" />
-</p>
-
- 
