@@ -65,15 +65,15 @@
 
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
-<div align="center">
-  <img width=390
-    src="https://github-readme-stats.vercel.app/api?username=prithvishshukla&show_icons=true&theme=react&rank_icon=github&border_radius=10"
-    alt="GitHub Stats" />
-  <br />
-  <img width=325
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithvishshukla&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5"
-    alt="Top Languages" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/prithvishshukla/prithvishshukla/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:prithvishshukla?theme=normal-2&padding=9&offset=8&scale=1&align=top&pixelated=0&darkmode=auto"  />
 </div>
+
+###
 
 <hr />
 
